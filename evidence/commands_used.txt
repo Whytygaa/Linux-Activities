@@ -1,0 +1,93 @@
+    1  whoami
+    2  history > commands_used.txt
+    3  mkdir mission
+    4  cd mission
+    5  mkdir intel ops
+    6  ls
+    7  cd opps
+    8  cd ops
+    9  mkdir backups
+   10  tree ~
+   11  tree ~ > tree_output
+   12  ls
+   13  rm tree_output
+   14  cd /
+   15  ls
+   16  cd ~
+   17  ls
+   18  tree ~ > tree_output
+   19  ls
+   20  tree ~
+   21  cd intel
+   22  pwd
+   23  cd /home/agent007/mission/intel
+   24  ls
+   25  touch targets.txt routes.txt keys.txt
+   26  ls -al
+   27  ls
+   28  ls > listing1.txt
+   29  ls -l > listing2.txt
+   30  ls -la > listing3.txt
+   31  find ~ type d -name backups 
+   32  find ~ -type d -name backups 
+   33  cp routes.txt /home/agent007/mission/ops/backups
+   34  ls /home/agent007/mission/ops/backups
+   35  rm keys.txt
+   36  ls -l targets.txt
+   37  chmod 640 targets.txt
+   38  ls -l targets.txt
+   39  rm /home/agent007/mission/ops/backups/routes.txt
+   40  cp rooutes.txt /home/agent007/mission/ops/backups
+   41  cp routes.txt /home/agent007/mission/ops/backups
+   43  ls -l
+   44  cat targets.txt
+   45  nano targets.txt
+   46  sudo password root
+   47  sudo passwd root
+   48  su root
+   49  su 
+   50  su root
+   51  ls -l
+   52  nano targets.txt
+   53  history
+    1  whoami
+    2  history > commands_used.txt
+    3  mkdir mission
+    4  cd mission
+    5  mkdir intel ops
+    6  ls
+    7  cd opps
+    8  cd ops
+    9  mkdir backups
+   10  tree ~
+   11  tree ~ > tree_output
+   12  ls
+   13  rm tree_output
+   14  cd /
+   15  ls
+   16  cd ~
+   17  ls
+   18  tree ~ > tree_output
+   19  ls
+   20  tree ~
+   21  cd intel
+   22  pwd
+   23  cd /home/agent007/mission/intel
+   24  ls
+   25  touch targets.txt routes.txt keys.txt
+   26  ls -al
+   27  ls
+   28  ls > listing1.txt
+   29  ls -l > listing2.txt
+   30  ls -la > listing3.txt
+   31  find ~ type d -name backups 
+   32  find ~ -type d -name backups 
+   33  cp routes.txt /home/agent007/mission/ops/backups
+   34  ls /home/agent007/mission/ops/backups
+   35  rm keys.txt
+   36  ls -l targets.txt
+   37  chmod 640 targets.txt
+   38  ls -l targets.txt
+   39  rm /home/agent007/mission/ops/backups/routes.txt
+   40  cp rooutes.txt /home/agent007/mission/ops/backups
+   41  cp routes.txt /home/agent007/mission/ops/backups

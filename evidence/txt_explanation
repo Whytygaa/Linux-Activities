@@ -1,0 +1,5 @@
+1. chmod is used to change file or directory permissions, controlling what the owner, group, and others can do with them. For example, chmod 640 targets.txt gives the owner read/write access, the group read-only access, and others no access.
+
+2. ls -l displays a detailed list of files and directories, including their permissions, owner, group, file size, and modification date.
+
+3. useradd creates a new user account on a Linux system. Options such as -m create a home directory, -s /bin/bash sets the login shell, and -G sudo adds the user to the sudo group
